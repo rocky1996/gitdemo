@@ -10,6 +10,26 @@ public class User implements Serializable {
     private int age;
     private String score;
 
+    private String address;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public String getCreate_data() {
+        return create_data;
+    }
+
+    public void setCreate_data(String create_data) {
+        this.create_data = create_data;
+    }
+
+    private String create_data;
+
     public String getId() {
         return id;
     }
