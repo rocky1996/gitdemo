@@ -32,4 +32,8 @@ public class Apper implements Serializable {
     public static String fangfa1(){
         return "apple";
     }
+
+    public static String fangfa2(){
+        return "apple2";
+    }
 }
