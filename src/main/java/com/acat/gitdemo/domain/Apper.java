@@ -28,4 +28,8 @@ public class Apper implements Serializable {
     private void fasong(){
         System.out.println("kaishi-fasong");
     }
+
+    public static String fangfa1(){
+        return "apple";
+    }
 }
