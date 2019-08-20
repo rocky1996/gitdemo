@@ -25,7 +25,7 @@ public class Apper implements Serializable {
         this.address = address;
     }
 
-    public void send(){
-        System.out.println("kaishi-send");
+    private void fasong(){
+        System.out.println("kaishi-fasong");
     }
 }
