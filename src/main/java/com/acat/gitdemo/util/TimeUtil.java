@@ -16,4 +16,8 @@ public class TimeUtil {
     public static void main(String[] args){
         System.out.println(TimeUtil.getTime());
     }
+
+    public void method1(){
+        System.out.println("method 1");
+    }
 }
