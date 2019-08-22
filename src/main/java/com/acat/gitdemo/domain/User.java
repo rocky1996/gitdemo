@@ -55,4 +55,6 @@ public class User implements Serializable {
     }
 
     public static final String WUJINFAN = "wujinfan";
+
+    public static final String HEYUANHUI = "heyuanhui";
 }
