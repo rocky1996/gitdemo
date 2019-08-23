@@ -53,4 +53,6 @@ public class User implements Serializable {
     public void setScore(String score) {
         this.score = score;
     }
+
+    public static final String WUJINFAN = "wujinfan";
 }
